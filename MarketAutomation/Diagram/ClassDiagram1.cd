@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MarketAutomation.Classes.Products">
+    <Position X="28.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAwAIAEQABQAAgAQAgAAAAQAUAAAAEIEAIAAAIAAA=</HashCode>
+      <FileName>Classes\Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketAutomation.Classes.FootballGame">
+    <Position X="23.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAAAAAAQBAAwAAEAAQAABAACAAAAAAAACAAAAAAQ=</HashCode>
+      <FileName>Classes\FootballGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketAutomation.Classes.Goalkeeper">
+    <Position X="24.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\FootballGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketAutomation.Classes.Defender">
+    <Position X="20.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAQAAIAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Classes\FootballGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketAutomation.Classes.Midfielder">
+    <Position X="22.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAQAAAAAAABAAAAAAAAAgAABhAAAAAAAAAA=</HashCode>
+      <FileName>Classes\FootballGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketAutomation.Classes.Forward">
+    <Position X="27" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAQAAIAAAAAAAAAAAAEAAAABBABAAAAAAAA=</HashCode>
+      <FileName>Classes\FootballGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketAutomation.Classes.Users">
+    <Position X="16.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAgAQAAAAAAAABAIAAAAAAAAA=</HashCode>
+      <FileName>Classes\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketAutomation.Classes.Customer">
+    <Position X="15" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MarketAutomation.Classes.Staff">
+    <Position X="17.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABIAAAAAAAACAAAAAAAAAAAAAAAABgAAA=</HashCode>
+      <FileName>Classes\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
